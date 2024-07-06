@@ -1,0 +1,6 @@
+@sharktrivia_HostAddress = http://localhost:5287
+
+GET {{sharktrivia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
